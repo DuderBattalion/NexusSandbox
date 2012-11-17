@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">NexusSandbox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="get_started">To get started, log in using Facebook</string>
+    <string name="welcome">Welcome, you are now logged in</string>
+    <string name="app_id">438304116230128</string>
+    <string name="settings">Settings</string>
+    <string name="testButton">Test</string>
+
+</resources>
